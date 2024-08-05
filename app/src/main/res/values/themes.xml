@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IOLSA_SIGES" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <item name="android:statusBarColor">@color/negro_navegacion</item>
+        <item name="android:navigationBarColor">@color/negro_navegacion</item>
+    </style>
+
+    <style name="Theme.IOLSA_SIGES" parent="Base.Theme.IOLSA_SIGES" />
+</resources>
